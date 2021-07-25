@@ -1,0 +1,17 @@
+{
+    "name": "Service Worker Firefox Waiting Bug Repro",
+    "short_name": "SW FF Bug",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#000",
+    "description": "Service worker waiting bug reproduction demo",
+    "icons": [
+        {
+            "src": "/apple-touch-icon.png",
+            "sizes": "300x300",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ]
+}
